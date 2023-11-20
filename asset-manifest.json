@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/tripss/static/css/main.914f4196.css",
+    "main.js": "/tripss/static/js/main.eff4609c.js",
+    "static/media/4.jpg": "/tripss/static/media/4.117b28c48e4d6c00cc84.jpg",
+    "static/media/1.jpg": "/tripss/static/media/1.dab62c8a597dae7de335.jpg",
+    "static/media/12.jpg": "/tripss/static/media/12.257c5311e1cae5638aad.jpg",
+    "static/media/3.jpg": "/tripss/static/media/3.f69e5522bfe6cc518a96.jpg",
+    "static/media/2.jpg": "/tripss/static/media/2.68358ce987761e2d453a.jpg",
+    "static/media/5.jpg": "/tripss/static/media/5.e8e823794a21af5a7c47.jpg",
+    "static/media/8.jpg": "/tripss/static/media/8.a29bb2ac4b568a142422.jpg",
+    "static/media/10.jpg": "/tripss/static/media/10.b4cae24d2bff7fc2e5f0.jpg",
+    "static/media/night.jpg": "/tripss/static/media/night.ac6d287d5d0014553b87.jpg",
+    "static/media/6.jpg": "/tripss/static/media/6.e98f6ba9f88aa0b95c7c.jpg",
+    "index.html": "/tripss/index.html",
+    "main.914f4196.css.map": "/tripss/static/css/main.914f4196.css.map",
+    "main.eff4609c.js.map": "/tripss/static/js/main.eff4609c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.914f4196.css",
+    "static/js/main.eff4609c.js"
+  ]
+}
